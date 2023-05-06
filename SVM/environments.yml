@@ -1,0 +1,21 @@
+name: mysvm
+
+channels:
+  - defaults
+  - pytorch
+
+dependencies:
+  - python
+  - cpuonly
+  - pytorch
+  - tensorflow==2.12.*
+  - seaborn
+  - pip
+  - PyYAML
+  - numpy
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - pandas  
+  - pip:
+    - cfgrib
