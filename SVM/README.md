@@ -2,7 +2,7 @@
 ## SVM Multiclass Classification. 
  
 ### Lecture note 
-[SVM_pdf](SVM/SVM_SS.pdf)  or [SVM_PPT](SVM/SVM_SS.pptx).  
+[SVM_pdf](SVM_SS.pdf) or [SVM_pptx](SVM_SS.pptx).  
 
 ### Coding Exercise
 SVM does not support multiclass classification natively. Two commonly used approaches that extend SVM for multiclass classification are One-vs-One and One-vs-Rest. In this exercise, we would like you to apply multiclass classification using SVM to classify number 0-10 from MNIST dataset. 
