@@ -1,6 +1,8 @@
 
 ## SVM Multiclass Classification. 
- 
+
+*Written by Suwichaya Suwanwimulkul*
+
 ### Lecture note 
 Lecture Note: [pdf](SVM_LectureNote.pdf) or [pptx](SVM_LectureNote.pptx).  
 Exercise & Solutions: [pdf](Coding_Exercise_and_Solutions.pdf) or [pptx](Coding_Exercise_and_Solutions.pptx). 
