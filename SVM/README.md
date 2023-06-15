@@ -29,6 +29,9 @@ Specifically, we would like you to explore the following:
 
 ---
 
+
+ ![RBFParams](SVM_RBF_cs_and_gamma.png)
+
 ## Prerequisite 
 
 Please make sure you have install anaconda and jupyternote book. 
